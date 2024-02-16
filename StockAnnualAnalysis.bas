@@ -20,13 +20,13 @@ Dim ws As Worksheet
         PrintRow = 2
         ws.Cells(1, 9).Value = "Ticker"
         ws.Cells(1, 16).Value = "Ticker"
-        ws.Cells(1, 17).Value = "Value"
+        ws.Cells(1, 17).Value = "Volume"
         ws.Cells(2, 15).Value = "Greatest % increase"
         ws.Cells(3, 15).Value = "Greatest % decrease"
         ws.Cells(4, 15).Value = "Greatest total volume"
         ws.Cells(1, 10).Value = "Yearly Change"
         ws.Cells(1, 11).Value = "Percent Change"
-        ws.Cells(1, 12).Value = "Total Stock Value"
+        ws.Cells(1, 12).Value = "Total Stock Volume"
         Dim YearlyChange As Double
         YearlyChange = 0
         Dim PercentChange As Double
