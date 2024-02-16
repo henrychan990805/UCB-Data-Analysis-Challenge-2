@@ -19,3 +19,12 @@ The first few lines of code actualize the function that allows the script to run
 Following that, the script formats the sheets and cells.
 Then, the code adds the titles.
 After that, the code creates some key variables that will be used.
+
+![alt_text](Code2.png)
+
+This section of the code is to analyze the data row by row to find the sections of each stock in the data.
+Then, it put in the tickers for the stock.
+After that, it calculates the yearly changes, percent changes, and total stock volume.
+The next section of the code compares the values to the existing largest or lowest values to find whether the current value is the greatest percent increase 
+greatest percent decrease, or the greatest total volume.
+If they are, the corresponding cells will be updated with their information
