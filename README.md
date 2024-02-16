@@ -2,7 +2,7 @@
     Creator: Henry Jinghe Chen  Date: 2/15/2024
 ## Project Description
     The project is created for UCB Data Analysis Challenge 2.
-    The requirements:
+### The requirements:
     *Runs on all worksheets in the workbook
     *Collects the tickers of the stocks in the worksheets
     *Calculates the yearly change of each stock in the worksheets
