@@ -28,3 +28,16 @@ After that, it calculates the yearly changes, percent changes, and total stock v
 The next section of the code compares the values to the existing largest or lowest values to find whether the current value is the greatest percent increase 
 greatest percent decrease, or the greatest total volume.
 If they are, the corresponding cells will be updated with their information
+
+## Results
+### Multiple Year Stock
+![alt text](2018.png)
+![alt text](2019.png)
+![alt text](2020.png)
+### Alphabetical Testing
+![alt text](imgA.png)
+![alt text](imgB.png)
+![alt text](imgC.png)
+![alt text](imgD.png)
+![alt text](imgE.png)
+![alt text](imgF.png)
