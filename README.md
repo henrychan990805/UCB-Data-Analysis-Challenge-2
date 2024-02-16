@@ -14,6 +14,7 @@
     *Format the cells of yearly change and percent change according to increase(Green) or decrease(Red)
 ### Code Description
 ![alt text](Code1.png)
+
 The first few lines of code actualize the function that allows the script to run through all the worksheets.
 Following that, the script formats the sheets and cells.
 Then, the code adds the titles.
